@@ -41,5 +41,5 @@
     }
 ----------------
 # Languages
-* Russian
-* English (B1 Advanced)
+* Russian;
+* English (B1 Advanced).
